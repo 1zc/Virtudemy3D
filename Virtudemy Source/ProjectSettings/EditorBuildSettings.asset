@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Intro.unity
+    guid: c72ff56cff25a9d44a880d263b762058
+  - enabled: 1
+    path: Assets/Menu.unity
+    guid: 5c25d3635fe298845a7be8ad097096a6
+  - enabled: 1
+    path: Assets/prototype.unity
+    guid: 63f7aa5a297dcec4396bfb49dbab477d
+  - enabled: 1
+    path: Assets/IN CLASSROOM/ClassRoom Stuff/Class.unity
+    guid: d7e8f89b3463d2348b87584e42fef212
+  - enabled: 1
+    path: Assets/IN CLASSROOM/Srtudents.unity
+    guid: 580df9fe1f55974478ae4ab7094d9c17
+  - enabled: 1
+    path: Assets/IN CLASSROOM/StudObj.unity
+    guid: 021b7f63d0dfb7c45a2bae52bdd1843f
+  - enabled: 1
+    path: Assets/IN CLASSROOM/Quiz/Quiz.unity
+    guid: 0b0acb79cc6095a46ab9dc5f63601010
+  - enabled: 1
+    path: Assets/IN CLASSROOM/Quiz/TQuiz.unity
+    guid: 8d66c8785953f344393abad02cc336d0
+  - enabled: 1
+    path: Assets/IN CLASSROOM/Objectives.unity
+    guid: ec0465d2a7c24d345926d8ab050b9ddc
+  - enabled: 1
+    path: Assets/Activities/ActivityStart.unity
+    guid: bdd9bffc78ed2a54b86dc9b9969b88b0
+  - enabled: 1
+    path: Assets/Activities/Acti1.unity
+    guid: 0ece93f223e9f9443a910ab63ed020a0
+  - enabled: 1
+    path: Assets/Activities/Acti2.unity
+    guid: 893d9379160f90442835f3394fa9f68a
+  - enabled: 1
+    path: Assets/Activities/Acti3.unity
+    guid: 75baa140f527a6245b211d60d2a730ba
+  - enabled: 1
+    path: Assets/Activities/EndActi.unity
+    guid: ccb2310360a188048bcd8e0ddda456f7
+  - enabled: 1
+    path: Assets/Activities/TActStart.unity
+    guid: 6d76e85183b45544bb4c64de8b034903
+  - enabled: 1
+    path: Assets/TeacherIntro/Tlog.unity
+    guid: 7cc17838899a2524f98811713a7905f7
+  - enabled: 1
+    path: Assets/TeacherIntro/TMenu.unity
+    guid: 39968527ebccce74fa95f001338a68fb
