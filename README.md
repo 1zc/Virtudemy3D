@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/LiamZC/Virtudemy/master/Virtudemy Source/VirtudemyBLK.png)
+![alt text](https://raw.githubusercontent.com/LiamZC/Virtudemy/master/Virtudemy%20Source/VirtudemyBLK.png)
 
 # Virtudemy - Welcome to a revolutionized virtual learning environment for students.
 
