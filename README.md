@@ -1,3 +1,5 @@
+![alt text](https://raw.githubusercontent.com/LiamZC/Virtudemy/master/Virtudemy Source/VirtudemyBLK.png)
+
 # Virtudemy - Welcome to a revolutionized virtual learning environment for students.
 
 The era of being confined within four walls to be educated has now become a conventional concept. It has several limitations ranging from a dull teacher driven classroom, inflexible curriculums and timings, to a restricted reach to enhance one’s knowledge.
