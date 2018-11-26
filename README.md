@@ -13,3 +13,7 @@ Virtudemy is an online, multiuser education tool based on the Unity Game Engine 
 The open world video-game style was designed and created in the Unity Game Engine, with the map modelled and textured using the Blender modelling tool. The tool allows students to login and join a first-person POV and experience a school map filled with activities and events set up by the hosting school. The prospective of a video-game styled environment allows Virtudemy to be effective as well as interesting for students of all age groups.
 
 # This project is in beta and is not complete!
+
+# Achievements
+
+> Winning Project at the ADEK Program-Your-Idea 2017 National Competition.
