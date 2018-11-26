@@ -1,4 +1,6 @@
-   ![alt text](https://raw.githubusercontent.com/LiamZC/Virtudemy/master/Virtudemy%20Source/VirtudemyBLK.png)
+<p align="center">
+  <img width="462" height="132" src="https://raw.githubusercontent.com/LiamZC/Virtudemy/master/Virtudemy%20Source/VirtudemyBLK.png">
+</p>
 
 # Virtudemy - Welcome to a revolutionized virtual learning environment for students.
 
