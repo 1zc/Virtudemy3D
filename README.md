@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="462" height="100" src="https://raw.githubusercontent.com/LiamZC/Virtudemy/master/Virtudemy%20Source/VD.png">
+  <img width="462" height="90" src="https://raw.githubusercontent.com/LiamZC/Virtudemy/master/Virtudemy%20Source/VD.png">
 </p>
 
 # Virtudemy - Welcome to a revolutionized virtual learning environment for students.
